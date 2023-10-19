@@ -12,5 +12,6 @@
 <%= java.time.LocalDateTime.now() %>
 입니다.
 <hr>
+<hr>
 </body>
 </html>
